@@ -4,3 +4,4 @@ Strawberries
 pineapple
 lettuce
 bagels
+Veggie Pizza
