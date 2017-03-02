@@ -3,10 +3,15 @@ Cheesecake
 Strawberries
 pineapple
 lettuce
-<<<<<<< HEAD
 bagels
 Veggie Pizza
-=======
 bagels 
 pasta
->>>>>>> f286fd6f5f6ce930797870f88da5ee8189b9ecb8
+Salmon 
+Potatoes
+Broccoli
+Clam Chowder
+Tomato Soup
+Kitkat
+Milkway
+Twizzlers
